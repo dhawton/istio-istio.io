@@ -6816,11 +6816,9 @@ L7 规则时状态消息的措辞，使其更加清晰。
         
             
                 
-                    
-                
             
 
-            <a class="entry" href="/zh/docs/setup/additional-setup/download-istio-release/">
+            <a class="entry" href="https://github.com/istio/istio/releases/tag/1.25.0">
                 <h5>下载</h5>
                 <p>下载安装该发行版。</p>
             </a>

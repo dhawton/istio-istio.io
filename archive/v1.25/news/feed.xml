@@ -3867,11 +3867,9 @@
         
             
                 
-                    
-                
             
 
-            <a class="entry" href="/docs/setup/additional-setup/download-istio-release/">
+            <a class="entry" href="https://github.com/istio/istio/releases/tag/1.25.2">
                 <h5>DOWNLOAD</h5>
                 <p>Download and install this release.</p>
             </a>
